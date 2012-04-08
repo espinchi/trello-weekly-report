@@ -1,0 +1,5 @@
+A very simple command-line tool that parses a Trello board in JSON format.
+
+For instance, I find it useful to create progress reports.
+
+This is just a toy project to gain some more experience with Git and Python.
