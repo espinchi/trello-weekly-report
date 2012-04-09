@@ -1,0 +1,555 @@
+{
+  "actions": [
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f781237497815f02104be90", 
+          "name": "Already finished this task"
+        }, 
+        "idMember": "4f463111d647f67d15feef7d"
+      }, 
+      "date": "2012-04-01T08:31:40.488Z", 
+      "id": "4f78126cf5a8bcf821063d6f", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "member": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "addMemberToCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f78122f497815f02104be3f", 
+          "name": "We are doing this card"
+        }, 
+        "idMember": "4f463111d647f67d15feef7d"
+      }, 
+      "date": "2012-04-01T08:31:37.042Z", 
+      "id": "4f781269f5a8bcf821063d55", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "member": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "addMemberToCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f78122f497815f02104be3f", 
+          "name": "We are doing this card"
+        }, 
+        "checkItem": {
+          "id": "4f781256497815f02104c005", 
+          "name": "First step (done)", 
+          "state": "complete"
+        }
+      }, 
+      "date": "2012-04-01T08:31:26.601Z", 
+      "id": "4f78125e497815f02104c079", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "updateCheckItemStateOnCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f78122f497815f02104be3f", 
+          "name": "We are doing this card"
+        }, 
+        "checklist": {
+          "id": "4f781250497815f02104bfc4", 
+          "name": "Subtasks"
+        }
+      }, 
+      "date": "2012-04-01T08:31:13.052Z", 
+      "id": "4f781251497815f02104bfd9", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "addChecklistToCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f78122f497815f02104be3f", 
+          "name": "We are doing this card"
+        }, 
+        "checklist": {
+          "id": "4f781245497815f02104bf2d", 
+          "name": "Checklist"
+        }
+      }, 
+      "date": "2012-04-01T08:31:06.757Z", 
+      "id": "4f78124a497815f02104bf82", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "removeChecklistFromCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f78122f497815f02104be3f", 
+          "name": "We are doing this card"
+        }, 
+        "checklist": {
+          "id": "4f781245497815f02104bf2d", 
+          "name": "Checklist"
+        }
+      }, 
+      "date": "2012-04-01T08:31:01.371Z", 
+      "id": "4f781245497815f02104bf38", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "addChecklistToCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f78123f497815f02104bf03", 
+          "name": "This one is also finished"
+        }, 
+        "list": {
+          "id": "4f78121c2e5e91ed210446f1", 
+          "name": "Done"
+        }
+      }, 
+      "date": "2012-04-01T08:30:55.610Z", 
+      "id": "4f78123f497815f02104bf05", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "createCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f781237497815f02104be90", 
+          "name": "Already finished this task"
+        }, 
+        "list": {
+          "id": "4f78121c2e5e91ed210446f1", 
+          "name": "Done"
+        }
+      }, 
+      "date": "2012-04-01T08:30:47.685Z", 
+      "id": "4f781237497815f02104be92", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "createCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f78122f497815f02104be3f", 
+          "name": "We are doing this card"
+        }, 
+        "list": {
+          "id": "4f78121c2e5e91ed210446f0", 
+          "name": "Doing"
+        }
+      }, 
+      "date": "2012-04-01T08:30:39.777Z", 
+      "id": "4f78122f497815f02104be41", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "createCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }, 
+        "card": {
+          "id": "4f781227497815f02104bdb3", 
+          "name": "Card to be done"
+        }, 
+        "list": {
+          "id": "4f78121c2e5e91ed210446ef", 
+          "name": "To Do"
+        }
+      }, 
+      "date": "2012-04-01T08:30:31.438Z", 
+      "id": "4f781227497815f02104bdb5", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "createCard"
+    }, 
+    {
+      "data": {
+        "board": {
+          "id": "4f78121c2e5e91ed210446eb", 
+          "name": "Test"
+        }
+      }, 
+      "date": "2012-04-01T08:30:20.592Z", 
+      "id": "4f78121c2e5e91ed210446ed", 
+      "idMemberCreator": "4f463111d647f67d15feef7d", 
+      "memberCreator": {
+        "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+        "fullName": "Pablo Pera", 
+        "id": "4f463111d647f67d15feef7d", 
+        "initials": "PP", 
+        "username": "pablopera"
+      }, 
+      "type": "createBoard"
+    }
+  ], 
+  "cards": [
+    {
+      "attachments": [], 
+      "badges": {
+        "attachments": 0, 
+        "checkItems": 0, 
+        "checkItemsChecked": 0, 
+        "comments": 0, 
+        "description": false, 
+        "due": null, 
+        "fogbugz": "", 
+        "viewingMemberVoted": false, 
+        "votes": 0
+      }, 
+      "checkItemStates": [], 
+      "closed": false, 
+      "desc": "", 
+      "id": "4f781227497815f02104bdb3", 
+      "idBoard": "4f78121c2e5e91ed210446eb", 
+      "idChecklists": [], 
+      "idList": "4f78121c2e5e91ed210446ef", 
+      "idMembers": [], 
+      "idShort": 1, 
+      "labels": [], 
+      "name": "Card to be done", 
+      "pos": 65536, 
+      "url": "https://trello.com/card/card-to-be-done/4f78121c2e5e91ed210446eb/1"
+    }, 
+    {
+      "attachments": [], 
+      "badges": {
+        "attachments": 0, 
+        "checkItems": 3, 
+        "checkItemsChecked": 1, 
+        "comments": 0, 
+        "description": false, 
+        "due": null, 
+        "fogbugz": "", 
+        "viewingMemberVoted": false, 
+        "votes": 0
+      }, 
+      "checkItemStates": [
+        {
+          "idCheckItem": "4f781256497815f02104c005", 
+          "state": "complete"
+        }
+      ], 
+      "closed": false, 
+      "desc": "", 
+      "id": "4f78122f497815f02104be3f", 
+      "idBoard": "4f78121c2e5e91ed210446eb", 
+      "idChecklists": [
+        "4f781250497815f02104bfc4"
+      ], 
+      "idList": "4f78121c2e5e91ed210446f0", 
+      "idMembers": [
+        "4f463111d647f67d15feef7d"
+      ], 
+      "idShort": 2, 
+      "labels": [], 
+      "name": "We are doing this card", 
+      "pos": 65536, 
+      "url": "https://trello.com/card/we-are-doing-this-card/4f78121c2e5e91ed210446eb/2"
+    }, 
+    {
+      "attachments": [], 
+      "badges": {
+        "attachments": 0, 
+        "checkItems": 0, 
+        "checkItemsChecked": 0, 
+        "comments": 0, 
+        "description": false, 
+        "due": null, 
+        "fogbugz": "", 
+        "viewingMemberVoted": false, 
+        "votes": 0
+      }, 
+      "checkItemStates": [], 
+      "closed": false, 
+      "desc": "", 
+      "id": "4f781237497815f02104be90", 
+      "idBoard": "4f78121c2e5e91ed210446eb", 
+      "idChecklists": [], 
+      "idList": "4f78121c2e5e91ed210446f1", 
+      "idMembers": [
+        "4f463111d647f67d15feef7d"
+      ], 
+      "idShort": 3, 
+      "labels": [], 
+      "name": "Already finished this task", 
+      "pos": 65536, 
+      "url": "https://trello.com/card/already-finished-this-task/4f78121c2e5e91ed210446eb/3"
+    }, 
+    {
+      "attachments": [], 
+      "badges": {
+        "attachments": 0, 
+        "checkItems": 0, 
+        "checkItemsChecked": 0, 
+        "comments": 0, 
+        "description": false, 
+        "due": null, 
+        "fogbugz": "", 
+        "viewingMemberVoted": false, 
+        "votes": 0
+      }, 
+      "checkItemStates": [], 
+      "closed": false, 
+      "desc": "", 
+      "id": "4f78123f497815f02104bf03", 
+      "idBoard": "4f78121c2e5e91ed210446eb", 
+      "idChecklists": [], 
+      "idList": "4f78121c2e5e91ed210446f1", 
+      "idMembers": [], 
+      "idShort": 4, 
+      "labels": [], 
+      "name": "This one is also finished", 
+      "pos": 131072, 
+      "url": "https://trello.com/card/this-one-is-also-finished/4f78121c2e5e91ed210446eb/4"
+    }
+  ], 
+  "checklists": [
+    {
+      "checkItems": [], 
+      "id": "4f781245497815f02104bf2d", 
+      "idBoard": "4f78121c2e5e91ed210446eb", 
+      "name": "Checklist"
+    }, 
+    {
+      "checkItems": [
+        {
+          "id": "4f781256497815f02104c005", 
+          "name": "First step (done)", 
+          "pos": 16834, 
+          "type": "check"
+        }, 
+        {
+          "id": "4f78125a497815f02104c033", 
+          "name": "Second step", 
+          "pos": 34161, 
+          "type": "check"
+        }, 
+        {
+          "id": "4f78125c497815f02104c058", 
+          "name": "Third step", 
+          "pos": 51352, 
+          "type": "check"
+        }
+      ], 
+      "id": "4f781250497815f02104bfc4", 
+      "idBoard": "4f78121c2e5e91ed210446eb", 
+      "name": "Subtasks"
+    }
+  ], 
+  "closed": false, 
+  "desc": "", 
+  "id": "4f78121c2e5e91ed210446eb", 
+  "idOrganization": "", 
+  "invitations": [], 
+  "invited": false, 
+  "labelNames": {
+    "blue": "", 
+    "green": "", 
+    "orange": "", 
+    "purple": "", 
+    "red": "", 
+    "yellow": ""
+  }, 
+  "lists": [
+    {
+      "closed": false, 
+      "id": "4f78121c2e5e91ed210446ef", 
+      "idBoard": "4f78121c2e5e91ed210446eb", 
+      "name": "To Do", 
+      "pos": 16384
+    }, 
+    {
+      "closed": false, 
+      "id": "4f78121c2e5e91ed210446f0", 
+      "idBoard": "4f78121c2e5e91ed210446eb", 
+      "name": "Doing", 
+      "pos": 32768
+    }, 
+    {
+      "closed": false, 
+      "id": "4f78121c2e5e91ed210446f1", 
+      "idBoard": "4f78121c2e5e91ed210446eb", 
+      "name": "Done", 
+      "pos": 49152
+    }
+  ], 
+  "members": [
+    {
+      "avatarHash": "13975f9b04a8a5ae5aec6244a73c9224", 
+      "avatarSource": "gravatar", 
+      "bio": "", 
+      "fullName": "Pablo Pera", 
+      "gravatarHash": "d41d8cd98f00b204e9800998ecf8427e", 
+      "id": "4f463111d647f67d15feef7d", 
+      "idBoards": [
+        "4f463111d647f67d15feef95", 
+        "4f463278781e0d1660ad23b9", 
+        "4f463298d647f67d15ff55e5", 
+        "4f4632aed647f67d15ff59b3", 
+        "4f46974689db44d6710329ca", 
+        "4f553c34547780d356ae32ba", 
+        "4f57b20b90ded3cc6f7ea67d", 
+        "4f5c87194dbe858e70ee6bde", 
+        "4f634aa0861db542305c0165", 
+        "4f718a149301d09b6b5d7c76", 
+        "4f78121c2e5e91ed210446eb"
+      ], 
+      "idBoardsInvited": [], 
+      "idBoardsPinned": [
+        "4f463111d647f67d15feef95", 
+        "4f463278781e0d1660ad23b9", 
+        "4f46974689db44d6710329ca", 
+        "4f553c34547780d356ae32ba", 
+        "4f5c87194dbe858e70ee6bde", 
+        "4f718a149301d09b6b5d7c76", 
+        "4f78121c2e5e91ed210446eb"
+      ], 
+      "idOrganizations": [
+        "4f553b6b9763e9d6723c77af", 
+        "4f57b16134f429d9158bd83b", 
+        "4f634a8d751e16506e9ca18d"
+      ], 
+      "idOrganizationsInvited": [], 
+      "initials": "PP", 
+      "prefs": {}, 
+      "status": "active", 
+      "url": "https://trello.com/pablopera", 
+      "username": "pablopera"
+    }
+  ], 
+  "memberships": [
+    {
+      "id": "4f78121c2e5e91ed210446f2", 
+      "idMember": "4f463111d647f67d15feef7d", 
+      "memberType": "admin"
+    }
+  ], 
+  "name": "Test", 
+  "pinned": true, 
+  "prefs": {
+    "comments": "members", 
+    "invitations": "members", 
+    "permissionLevel": "private", 
+    "selfJoin": false, 
+    "voting": "members"
+  }, 
+  "url": "https://trello.com/board/test/4f78121c2e5e91ed210446eb"
+}
+
